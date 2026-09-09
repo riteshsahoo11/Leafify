@@ -1,6 +1,6 @@
 # 🌱 Leafify - Plant Disease Detector
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://leafify-frontend.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://leafify-ras.vercel.app/)
 
 Leafify is an AI powerful, full-stack web application designed to help farmers, gardeners, and plant enthusiasts instantly identify plant diseases. By simply capturing or uploading a photo of a leaf, Leafify uses a state-of-the-art Deep Learning model to diagnose the disease and provide tailored treatment recommendations.
 
